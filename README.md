@@ -14,6 +14,13 @@ Pentster by Hobby
 
 Contact me at email: eumedeiros@gmail.com
 
+<div>
+  <a href-"https://github.com/MedeirosCode">
+  <img heigh-"180cm" src="https://github-readme-stats.vercel.app/api?username=MedeirosCode&show_icons=true&theme=radical&include_all_commits=true&count_public=true"/>
+  <img heigh-"180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedeirosCode&layout=compact&langs_count=168&theme=dracula"/>
+</div>
+  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,3 +38,5 @@ Contact me at email: eumedeiros@gmail.com
 
   
 </div>
+
+
