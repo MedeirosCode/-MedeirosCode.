@@ -2,7 +2,7 @@ Cursando Desenvolvimento de Sistemas - Senai
 
 Formado em  Manutenção de Computadores - Manutenção Definitiva
 
-Pentster por Hobby
+Pentester por Hobby
 
 Contate-me no email: eumedeiros@gmail.com
 
